@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 15px;
+}
+
+.content {
+	text-align: left;
+	padding-left: 450px;
+	padding-right: 450px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+.footer {
+	padding-top: 100px;
+}
